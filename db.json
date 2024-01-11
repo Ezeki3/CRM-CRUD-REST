@@ -6,6 +6,13 @@
       "telefono": "6541234567",
       "empresa": "Empresita",
       "id": 1
+    },
+    {
+      "nombre": "andre",
+      "email": "correo@correo2",
+      "telefono": "6541234567",
+      "empresa": "Empresita2",
+      "id": 2
     }
   ]
 }
